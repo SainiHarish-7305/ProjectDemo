@@ -1,6 +1,6 @@
 // import 'bootstrap/dist/css/bootstrap.min.css'
 import { useState } from 'react';
-import ProfilePictureForm from './Components/PRofilePicture';
+import ProfilePictureForm from './Components/ProfilePicture';
 
 import { Routes, Route, Link, useNavigate } from 'react-router-dom';
 
